@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Madhu Bandaru
 
-<!--
-**madhu786/madhu786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer with 4+ years building production web applications and Web3 products.
 
-Here are some ideas to get you started:
+## What I do
+- **Full-stack:** Node.js, React, JavaScript/TypeScript, REST APIs, AWS, Docker, CI/CD
+- **Web3 / Blockchain:** Solidity, Ethereum, Hardhat, Web3.js / Ethers.js, DeFi, NFTs, Layer 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Software Developer at Netlync Technologies (2019–2023) — full-stack development across Node.js, React, REST APIs and AWS, plus Solidity smart-contract work
+- MSIS, Trine University (graduated May 2026)
+
+## Currently
+- Building **DataPulse** — a VIN-decoding and vehicle-data tools site (live at datapulse-vert.vercel.app)
+- Open to full-stack and blockchain/Web3 engineering roles anywhere in the US
+
+## Links
+- Portfolio: https://madhubandaru.vercel.app
+- LinkedIn: https://www.linkedin.com/in/madhu-bandaru-7061b7194
